@@ -15,6 +15,10 @@
      font-family: 'Prompt', sans-serif;
  }
 
+ #img{
+    width: 25%;
+ }
+
  card {
      padding: 2em;
      margin: 1em;
@@ -28,7 +32,7 @@
  }
 
  .my-blog>h2 {
-     color: rgb(18, 105, 219);
+     color: rgb(219, 18, 18);
  }
 
  .my-blog>hr {
@@ -37,7 +41,7 @@
 
  .my-blog>p {
      max-width: 40em;
-     color: rgb(102, 123, 156);
+     color: rgb(218, 103, 10);
      background-color: rgb(240, 241, 245);
      padding: 0.5em;
      border-radius: 0.25em;
